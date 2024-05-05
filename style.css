@@ -1,0 +1,25 @@
+div{
+    margin-left: 47%;
+    margin-top: 10%;
+}
+#image{
+    height: 100px;
+    object-fit: cover;
+    background-color:white;
+    size: 500px;
+    border: 20px;
+    object-position: center;
+}
+section{
+  text-align: center;
+}
+button{
+    color: white;
+    margin: 30px,100px,30px,30px;
+    background-color: green;
+    width: 150px;
+    border-color: black;
+}
+footer{
+    text-align: center;
+}
